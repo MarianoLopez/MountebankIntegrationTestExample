@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.z</groupId>
-    <artifactId>monte</artifactId>
+    <artifactId>mounte</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>monte</name>
     <description>Demo project for Spring Boot</description>

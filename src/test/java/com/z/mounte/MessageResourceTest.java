@@ -1,4 +1,4 @@
-package com.z.monte;
+package com.z.mounte;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package com.z.monte;
+package com.z.mounte;
 
 import io.restassured.module.mockmvc.RestAssuredMockMvc;
 import org.junit.jupiter.api.AfterEach;
